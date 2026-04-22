@@ -4,6 +4,10 @@ A curated list of code samples and tutorials for building agents on **Gemini Ent
 
 ![AgentPlatform](AgentPlatform.png)
 
+### Watch the Intro Video
+
+[![What is Gemini Enterprise Agent Platform?](https://img.youtube.com/vi/j8qW5poBkEU/maxresdefault.jpg)](https://goo.gle/agent-platform-video)
+
 ## 🛠️ [Build](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build) - Turning code into agents
 
 *   **[Agent Development Kit (ADK)](https://adk.dev)** - Open-source framework for building agents.
