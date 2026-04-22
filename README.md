@@ -48,6 +48,9 @@ A curated list of code samples and tutorials for building agents on **Gemini Ent
 *   **[Agent Observability](https://docs.cloud.google.com/gemini-enterprise-agent-platform/optimize/observability/overview)** - Forensic visibility into agent reasoning.
 *   **[Agent Optimizer]()** - Automate improvements based on failures.
 
+## Developer's guides
+*  **[Onboarding Guide](https://goo.gle/agent-platform-onboard)** - A quick-start guide accelerates your onboarding to Agent Platform
+
 ## 🪜 Other Tutorials & Notebooks
 
 *   [Gemini](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models)
