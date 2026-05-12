@@ -35,12 +35,12 @@ A curated list of code samples and tutorials for building agents on **Gemini Ent
 *   **[Agent Runtime (previously Agent Engine)](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/agent-engine/intro_agent_engine.ipynb)** - Managed platform for serving agents.
 *   **[Agent Sessions](https://docs.cloud.google.com/gemini-enterprise-agent-platform/scale/sessions)** - Track interactions across multiple conversations.
 *   **[Agent Memory Bank](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/agents/agent_engine/memory_bank/get_started_with_memory_bank.ipynb)** - Persistent long-term agent memory.
-*   **[Agent Sandbox](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/agents/agent_engine/tutorial_get_started_with_code_execution.ipynb)** - Secure environment for code execution and computer use.
+*   **[Agent Sandbox (Code Execution)](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/agents/agent_engine/tutorial_get_started_with_code_execution.ipynb)** - Secure environment for code execution and computer use.
 
 ## 🔐 [Govern](https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern) - Trust as a feature
 
 *   **[Agent Gateway](https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/gateways/agent-gateway-overview)** - Central control, authentication, and rate-limiting. (Private Preview)
-*   **[Agent Identity](https://docs.cloud.google.com/iam/docs/principals-overview#agent-identity)** - Unique credentials for agents.  
+*   **[Agent Identity](https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/agent-identity-overview)** - Unique credentials for agents.  
 *   **[Agent Policies](https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/policies/overview)** - IAM Policies for agents. (Private Preview)
 *   **[Agent Registry](https://docs.cloud.google.com/agent-registry/overview)** - Single source of approved tools and agents.
 *   **[Model Armor](https://docs.cloud.google.com/model-armor/overview)** - Prevents prompt injections and leaks.
@@ -48,11 +48,12 @@ A curated list of code samples and tutorials for building agents on **Gemini Ent
 ## ⚙️ [Optimize](https://docs.cloud.google.com/gemini-enterprise-agent-platform/optimize) - Evaluation and enhancement
 
 *   **[Agent Evaluation](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/evaluation/create_agent_and_run_evaluation.ipynb)** - Automatically test complex agent interactions.
-*   **[Agent Simulation]()** - Generate synthetic interactions for stress-testing.
+*   **[Agent Simulation](https://docs.cloud.google.com/gemini-enterprise-agent-platform/optimize/evaluation/evaluate-simulated)** - Generate synthetic interactions for stress-testing.
 *   **[Agent Observability](https://docs.cloud.google.com/gemini-enterprise-agent-platform/optimize/observability/overview)** - Forensic visibility into agent reasoning.
-*   **[Agent Optimizer]()** - Automate improvements based on failures.
+*   **[Agent Optimizer](https://docs.cloud.google.com/gemini-enterprise-agent-platform/optimize/evaluation/optimize-agent)** - Automate improvements based on failures.
 
 ## Developer's guides
+
 *  **[Onboarding Guide](https://goo.gle/agent-platform-onboard)** - A quick-start guide accelerates your onboarding to Agent Platform
 
 ## 🪜 Other Tutorials & Notebooks
